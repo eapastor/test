@@ -48,3 +48,6 @@ END
 
 SELECT cpu_count, hyperthread_ratio
 from sys.dm_os_sys_info
+
+
+-- test comment
